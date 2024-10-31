@@ -1,0 +1,1463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: octopush-sms\n"
+"POT-Creation-Date: 2017-11-13 10:48+0100\n"
+"PO-Revision-Date: 2017-11-13 10:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: mgrenier <mathieu.grenier50@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: /home/mgrenier/projet/octopush/woocommerce/wp-content/"
+"plugins/octopush-sms/admin\n"
+"X-Poedit-SearchPath-1: ./../*/*\n"
+"X-Poedit-SearchPath-2: ./../*/*/*\n"
+"X-Poedit-SearchPath-3: /home/mgrenier/projet/octopush/woocommerce/wp-content/"
+"plugins/octopush-sms/admin/partials\n"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:119
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:121
+msgid "OK"
+msgstr "OK"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:120
+msgid "KO"
+msgstr "KO"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:122
+msgid "Impossible to process requested action"
+msgstr "Impossible d'effectuer la requête demandée"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:123
+msgid "POST request missing."
+msgstr "POST request missing"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:124
+msgid "Incorrect login details."
+msgstr "Identifiants de connection incorrects."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:125
+msgid "Your SMS exceeds 160 characters"
+msgstr "Votre SMS dépasse 160 caractères"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:126
+msgid "Your message has no recipient(s)"
+msgstr "Votre message n'a pas de destinataire(s)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:127
+msgid "You have run out of credit."
+msgstr "Vous n'avez plus de crédit."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:128
+msgid ""
+"You don't have enough credit on your balance your last order is being "
+"processed"
+msgstr ""
+"Vous n'avez pas assez de crédit sur votre compte, votre dernière commande "
+"est en cours de validation"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:129
+msgid ""
+"You have entered the sender ID incorrectly. 3 to 11 characters, chosen from "
+"0 to 9, a to z, A to Z. No accent, space or punctuation."
+msgstr ""
+"La saisie de l'expéditeur est incorrecte. 3 à 11 caractères uniquement de "
+"type 0 à 9, A à Z, pas d'accent, espace ou ponctuation."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:130
+msgid "The text of your message is missing."
+msgstr "Le texte de votre message est manquant."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:131
+msgid "You have not defined the quality of the route for your message."
+msgstr "Vous n'avez pas choisi la qualité de routage de votre message."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:132
+msgid "You have not entered your login details."
+msgstr "Vous n'avez pas entré vos identifiants de connection."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:133
+msgid "You have not entered your password."
+msgstr "Vous n'avez pas entré votre mot de passe."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:134
+msgid "You have not entered the list of recipients."
+msgstr "Vous n'avez pas entré la liste des destinataires."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:135
+msgid "You have not chosen a way to enter your recipients."
+msgstr "Vous n'avez pas choisi comment entrer vos destinataires."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:136
+msgid "Your recipient list does not contain a valid number."
+msgstr "Votre liste de contact ne contient pas de numéro valide."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:137
+msgid ""
+"Your account is not validated. Log in and go to the \"User interface\" "
+"section."
+msgstr ""
+"Votre compte n'est pas validé. Connectez-vous et cliquez sur la section "
+"\"User interface\" ."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:138
+msgid ""
+"Your account is not validated. <br /><br /> Click on the button below to "
+"activate it."
+msgstr ""
+"Votre compte n'est pas validé. <br /><br /> Cliquez sur le bouton ci-dessous "
+"afin de l'activer."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:139
+msgid "You are under investigation for the fraudulent use of our services."
+msgstr ""
+"Votre êtes sous surveillance suite à une utilisation frauduleuse de nos "
+"services."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:140
+msgid ""
+"The recipient number is different from the number defined in the parameters' "
+"section related to it."
+msgstr ""
+"Le numéro du destinataire est différent du numéro défini en paramètres et "
+"liés à ce celui ci."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:141
+msgid "The bulk mailing option only works by using a contact list."
+msgstr ""
+"L'envoi en masse ne fonctionne qu'avec l'utilisation d'une liste de contacts."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:142
+msgid ""
+"Your recipient list does not contain any correct number. Have you formated "
+"your numbers by including the international dialling code? Contact us if you "
+"have any problems."
+msgstr ""
+"Votre liste de contacts ne contient pas de numéros valides. Avez-vous "
+"formater vos numéros de téléphone en incluant le code international pays? "
+"Contactez-nous si vous rencontrez une difficulté."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:143
+msgid ""
+"You must tick one of the two boxes to indicate if <u>you do not wish to send "
+"test SMS </u> or if <u>you have correctly received and validated your test "
+"SMS</u>."
+msgstr ""
+"Vous devez cocher l'une des deux cases afin d'indiquer si <u> vous ne "
+"souhaitez pas envoyer de SMS de test </u> ou si <u> vous avez reçu votre SMS "
+"de test </u>."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:144
+msgid "You cannot send SMS with more than x characters for this type of SMS"
+msgstr "Vous ne pouvez pas envoyer ce type de SMS avec plus de x caractères"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:145
+msgid "A SMS with the same request_id has already been sent."
+msgstr "Un SMS avec la même request_id a déjà été envoyé."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:146
+msgid "In Premium SMS, the mention \""
+msgstr "Avec le SMS Premium, la mention \""
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:147
+msgid ""
+"In Standard SMS, the mention _STR_NO_PUB_  is mandatory  and must belong to "
+"your text (respect the case)."
+msgstr ""
+"Avec le SMS standard, la mention  _STR_NO_PUB_  est obligatoire (respectez "
+"la casse)."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:148
+msgid "The field request_sha1 is missing."
+msgstr "Le champ request_sha1 est manquante."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:149
+msgid ""
+"The field request_sha1 does not match. The data is wrong, or the query "
+"string contains an error or the frame contains an error : the request is "
+"rejected."
+msgstr ""
+"Le champ request_sha1 ne correspond pas. La donnée est erronée ou la chaîne "
+"de requêtes contient une erreur ou la structure  contient une erreur: la "
+"requête est rejetée."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:150
+msgid "An undefined error has occurred. Please contact support."
+msgstr "Une erreur non défini est survenue. Merci de contacter le support."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:151
+msgid ""
+"An SMS campaign is already waiting for approval. You must validate or Cancel "
+"it in order to to start another."
+msgstr ""
+"Une campagne SMS est en attente de validation. Vous devez la valider ou "
+"l'annuler afin d'en démarrer une nouvelle."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:152
+msgid ""
+"A SMS campaign is already being processed. You must wait for processing to "
+"be completed in order to start another one."
+msgstr ""
+"Une campagne SMS est déjà en cours d'envoi. Vous devez patienter jusqu'à sa "
+"transmission complète afin d'en démarrer une nouvelle."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:153
+msgid "Too many attempts have been made. You need to start a new campaign."
+msgstr ""
+"Trop de tentatives ont été effectuées. Vous devez démarrer une nouvelle "
+"campagne."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:154
+msgid "Campaign is being built."
+msgstr "La campagne est en train d'être construite"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:155
+msgid "Campaign is not yet finished."
+msgstr "La campagne n'est pas encore terminée."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:156
+msgid "Campaign not found."
+msgstr "Campagne non trouvée."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:157
+msgid "Campaign sent."
+msgstr "Campagne envoyée."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:158
+msgid "No country was found for this country."
+msgstr "Aucun pays n'a été trouvé pour ce pays."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:159
+msgid "The recipient country code is not part of our country coverage."
+msgstr ""
+"Le code pays du destinataire n'est pas un pays couvert par le service "
+"Octopush"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:160
+msgid "You cannot send low cost SMS to this country. Choose Premium SMS"
+msgstr ""
+"Vous ne pouvez pas envoyer de SMS Standard vers ce pays. Merci de choisir le "
+"SMS Premium"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:161
+msgid ""
+"The route is congested. This type of SMS cannot be dispatched immediately. "
+"If your order is urgent, please use another type of SMS."
+msgstr ""
+"La route est congestionnée. Ce type de SMS ne peut pas être délivré "
+"immédiatement. Si votre envoi est urgent, merci de sélectionner un autre "
+"type de SMS."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:162
+msgid ""
+"This option is only available upon request. Do not hesitate to contact us if "
+"you want to activate it"
+msgstr ""
+"Cette option n'est disponible uniquement sur demande. N'hésitez pas à nous "
+"contacter afin de l'activer."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:163
+msgid "The email account you wish to credit is incorrect."
+msgstr "L'email du compte que vous souhaitez créditer est incorrect."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:164
+msgid ""
+"You already have a token in use. You can only have one session opened at a "
+"time."
+msgstr ""
+"Vous avez actuellement un jeton en cours d'utilisation. Vous ne pouvez avoir "
+"qu'une unique session à la fois."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:165
+msgid "You have specified a wrong token."
+msgstr "Vous avez indiqué un mauvais jeton."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:166
+msgid "The number of text messages you want to transfer is too low."
+msgstr "Le nombre de messages que vous souhaitez transférer est trop faible."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:167
+msgid "You may not run any campaign if your account is not refilled."
+msgstr ""
+"Vous ne pouvez pas faire de campagne tant que votre compte n'a pas été "
+"crédité."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:168
+msgid "You do not have access to this feature."
+msgstr "Vous n'avez pas accès à cette fonctionnalité."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:169
+msgid "Wrong type of SMS."
+msgstr "Mauvais type de SMS."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:170
+msgid "You are not allowed to send SMS messages to this user."
+msgstr "Vous n'êtes pas autorisé à envoyer de SMS à cet utilisateur."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:171
+msgid ""
+"This email is not specified in any of your sub accounts or affiliate users."
+msgstr "Cet email n'appartient à aucun de vos sous comptes ou affiliés."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:172
+msgid "You are not authorized to manage your lists by API."
+msgstr "Vous n'êtes pas autorisé à gérer vos listes par API."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:173
+msgid "You have reached the maximum number of contact lists."
+msgstr "Vous avez atteint le nombre maximum de listes de contact."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:174
+msgid "A list with the same name already exists."
+msgstr "Une liste avec le même nom existe déjà."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:175
+msgid "The specified list does not exist."
+msgstr "La liste spécifiée n'existe pas."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:176
+msgid "The list is already full."
+msgstr "La liste est pleine."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:177
+msgid "There are too many contacts in the query."
+msgstr "Il y a trop de contacts dans cette requête."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/API_SMS_PHP_Octopush/config.inc.php:178
+msgid "The requested action is unknown."
+msgstr "L'action demandée est inconnue."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:81
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:90
+msgid "Create account"
+msgstr "Création de compte"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:82
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:93
+msgid "Send Message"
+msgstr "Envoi SMS"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:83
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:94
+msgid "Validate your order"
+msgstr "Valider votre commande"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:85
+msgid "Stock notification"
+msgstr "Notification du stock"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:86
+msgid "Admin alert"
+msgstr "Alerte administrateur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:87
+msgid "Daily report"
+msgstr "Statistiques quotidiennes"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:91
+msgid "Send SMS when customer has lost his password"
+msgstr "Envoyer un SMS quand un utilisateur a oublié son mot de passe"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:96
+msgid "Status update"
+msgstr "Statut mis à jour"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:149
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:38
+msgid "Send SMS"
+msgstr "Envoi SMS"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:221
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:31
+msgid "Settings"
+msgstr "Paramètres"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:378
+msgid "id_sendsms_campaign is not set."
+msgstr "id_sendsms_campaign n'est pas fixé"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:451
+msgid "In construction"
+msgstr "En construction"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:453
+msgid "Transfer in progess"
+msgstr "Transfert en cours"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:455
+msgid "Waiting for validation"
+msgstr "En attente d'autorisation"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:457
+msgid "Sent"
+msgstr "Envoyé"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:459
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:461
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:326
+msgid "Error"
+msgstr "Erreur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-admin.php:529
+msgid "Error unknown"
+msgstr "Erreur inconnue"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:219
+msgid "{firstname} {lastname} has just registered on {shopname}"
+msgstr "{firstname} {lastname} vient de s'inscrire sur {shopname}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:222
+msgid "{from} has sent a message to{contact_name} ({contact_mail}) : {message}"
+msgstr ""
+"{from} a envoyé un message à {contact_name} ({contact_mail}) : {message}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:225
+msgid ""
+"New order from {firstname} {lastname}, id: {order_id}, payment: {payment}, "
+"total: {total_paid} {currency}."
+msgstr ""
+"Nouvelle commande de {firstname} {lastname}, id: {order_id}, paiement: "
+"{payment}, total: {total_paid} {currency}."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:231
+msgid ""
+"This item is almost out of order, id: {product_id}, ref: {product_ref}, "
+"name: {product_name}, quantity: {quantity}"
+msgstr ""
+"Ce produit sera bientôt indisponible, id: {product_id}, réf: {product_ref}, "
+"nom: {product_name}, quantité: {quantity}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:234
+msgid ""
+"Your SMS credit is almost empty. Your remaining balance is {balance} € "
+"available."
+msgstr ""
+"Votre crédit SMS est bientôt épuisé. Il vous reste {balance} € disponible "
+"sur votre compte."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:237
+msgid ""
+"date: {date}, inscriptions: {subs}, orders: {orders}, sales: {day_sales}, "
+"for the month of: {month_sales}"
+msgstr ""
+"date: {date}, inscriptions: {subs}, commandes: {orders}, ventes: "
+"{day_sales}, pour le mois de: {month_sales}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:240
+msgid "{firstname} {lastname}, Welcome to {shopname} !"
+msgstr "{firstname} {lastname}, Bienvenue sur {shopname} !"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:243
+msgid ""
+"{firstname} {lastname}, your new password to access {shopname} is : "
+"{password}. {shopurl}"
+msgstr ""
+"{firstname} {lastname}, votre nouveau mot de passe pour accéder à  "
+"{shopname} est : {password}. {shopurl}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:246
+msgid ""
+"{firstname} {lastname}, the item {product} is now available on {shopname} "
+"({shopurl})"
+msgstr ""
+"{firstname} {lastname}, le produit {product} est désormais disponible sur "
+"{shopname} ({shopurl})"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:249
+msgid "Thank you for your message. We will answer you shortly. {shopname}"
+msgstr "Merci pour votre message. Nous vous répondrons rapidement. {shopname}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:252
+msgid ""
+"{firstname} {lastname}, we do confirm your order {order_id}, of {total_paid} "
+"{currency}. Thank you. {shopname}"
+msgstr ""
+"{firstname} {lastname}, nous confirmons la commande {order_id}, de "
+"{total_paid} {currency}. Merci. {shopname}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:260
+msgid ""
+"{firstname} {lastname}, your order {order_id} on {shopname} has a new "
+"status : {order_state}"
+msgstr ""
+"{firstname} {lastname}, votre commande {order_id} sur {shopname} a un "
+"nouveau statut : {order_state}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:262
+msgid "Not defined"
+msgstr "Non défini"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:440
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:446
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:447
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-api.php:450
+msgid "undefined"
+msgstr "non défini"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:49
+msgid "campaign"
+msgstr "campagne"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:51
+msgid "campaigns"
+msgstr "campagnes"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:62
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:319
+msgid "Ticket"
+msgstr "Ticket"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:63
+msgid "Title"
+msgstr "Titre"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:64
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:322
+msgid "Status"
+msgstr "Statut"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:66
+msgid "Nb of recipients"
+msgstr "Nb de destinataires"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:68
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:342
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:79
+msgid "Price"
+msgstr "Prix"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:69
+msgid "Sending date"
+msgstr "Date d'envoi"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:70
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:75
+msgid "Actions"
+msgstr "Actions"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-campaign-list.php:212
+msgid "edit"
+msgstr "éditer"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:123
+msgid "Campaigns not yet sent"
+msgstr "Campagnes non encore envoyées"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:125
+msgid "Campaigns history"
+msgstr "Historique des campagnes"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:127
+msgid "Create a new campaign / Send a new SMS"
+msgstr "Créez une nouvelle campagne / Envoyez un nouveau SMS"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:136
+msgid "Search campaign"
+msgstr "Chercher une campagne"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:161
+msgid "Back to the list"
+msgstr "Retour à la liste"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:165
+msgid ""
+"As soon as you choose recipient(s), your campaign will be automatically "
+"saved and you will find it in \"Send SMS\" tab for further modification if "
+"necessary."
+msgstr ""
+"Dès que vous choisissez le(s) destinataire(s), votre campagne sera "
+"automatiquement sauvegarder et stockées dans l'onglet \"Send SMS\" pour "
+"modification ultérieure si nécessaire."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:166
+msgid "Sending process :"
+msgstr "Procédure d'envoi:"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:167
+msgid ""
+"1. Create your campaign, click on 'Save' if you want to be able to modify it "
+"later."
+msgstr ""
+"1. Créez votre campagne, cliquez sur 'Sauvegarder' si vous souhaitez la "
+"modifier ultérieurement."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:168
+msgid ""
+"2. When your campaign is ready, click \"Transmit to Octopush\" to send your "
+"request to the SMS plateform, SMS will not be sent immediatly ! Status "
+"becomes \\\"Transfert in progess\\\" and the campaign can't be modified "
+"anymore."
+msgstr ""
+"2. Lorsque votre campagne est prête, cliquez sur  \"Transmit to Octopush\" , "
+"les SMS ne seront pas directement envoyés ! Le statut devient \"Transfert in "
+"progess\" et la campagne ne peut plus être modifiée."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:169
+msgid ""
+"3. During the transfer, number of recipients, number of SMS and price are "
+"updated in the \"Information\" part."
+msgstr ""
+"3. Pendant le transfert, le nombre de destinataires, le nombre de SMS et le "
+"prix sont mis à jour dans le bloc \"Information\"."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:170
+msgid ""
+"- If you stop the transfer by leaving the page (campaign with several "
+"recipients), you can complete it later by clicking \"Transmit to Octopush\" "
+"again."
+msgstr ""
+"-Si vous quittez la page en cours de transfert des données (campagne avec "
+"quelques destinataires), vous pouvez le compléter ultérieurement en cliquant "
+"sur \"Transmit to Octopush\"."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:171
+msgid ""
+"- When everything has been sent, you can validate the SMS by clicking "
+"\"Accept & Send\" or you can definitively cancel it."
+msgstr ""
+"- Quand tout a été envoyé, vous pouvez valider le SMS en cliquant \"Accept & "
+"Send\" ou vous pouvez l'annuler."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:172
+msgid ""
+"4. If there's no error (not enough credit for example), your campaign will "
+"be sent. Else, please fix the problem and try again."
+msgstr ""
+"4. Si il n'y a pas d'erreur (tel que crédit insuffisant), votre campagne "
+"sera envoyée. Sinon, merci de de régler le problème et réessayer plus tard."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:173
+msgid ""
+"5. You can retrieve all campaigns whose are not in the status \\\"In "
+"Construction\", \"Transfer in progress\" or \"Waiting for validation\" in "
+"the \"SMS history\" tab."
+msgstr ""
+"5. Vous pouvez récupérer toutes les campagnes qui n'ont pas le statut \"In "
+"Construction\", \"Transfer in progress\" ou \"Waiting for validation\" dans "
+"l'onglet \"SMS history\"."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:174
+msgid ""
+"- You can still cancel your campaign unless your campaign has been sent by "
+"Octopush."
+msgstr ""
+"- Vous pouvez toujours annuler votre campagne tant que votre campagne n'a "
+"pas été envoyée par Octopush."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:195
+#, php-format
+msgid "Campaign %s details"
+msgstr "Détail de la campagne %s"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:199
+msgid "SMS settings"
+msgstr "Paramètres SMS"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:199
+msgid "SMS details"
+msgstr "Détails des SMS"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:203
+msgid ""
+"Before sending a message, you have to enter your account information in the "
+"Settings Tab."
+msgstr ""
+"Avant d'envoyer un message, vous devez renseigner vos paramètres de compte "
+"dans l'onglet Paramètres."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:211
+msgid "Title of the campaign"
+msgstr "Titre de campagne"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:217
+msgid "Message"
+msgstr "Message"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:221
+msgid "Variables you can use : {firstname}, {lastname}"
+msgstr "Variables que vous pouvez utiliser:  {firstname}, {lastname}"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:225
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:345
+msgid "Send date"
+msgstr "Date d'envoi"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:227
+msgid "h"
+msgstr "h"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:228
+msgid "m"
+msgstr "m"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:229
+msgid "Time Zone:"
+msgstr "Fuseau horaire:"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:258
+msgid "List of recipients"
+msgstr "Liste des destinataires"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:272
+msgid "Time"
+msgstr "Time"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:273
+msgid "Hour"
+msgstr "Heure"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:274
+msgid "Minute"
+msgstr "Minute"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:275
+msgid "Second"
+msgstr "Seconde"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:276
+msgid "Now"
+msgstr "Maintenant"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:277
+msgid "Closed"
+msgstr "Fermé"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:280
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:575
+msgid "That phone number is invalid."
+msgstr "Ce numéro de téléphone n'est pas valide"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:281
+msgid "Please choose a valid CSV file"
+msgstr "Choisissez svp un fichier CSV valide"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:282
+msgid "That number must be greater or equal to 1"
+msgstr "Ce numéro doit être supérieur ou égal à 1"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:283
+msgid "Are you sure you want to cancel that campaign ?"
+msgstr "Êtes-vous sûr de vouloir annuler cette campagne?"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:284
+msgid "Are you sure you want to delete that campaign ?"
+msgstr "Êtes-vous sûr de vouloir effacer cette campagne?"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:312
+msgid "Information"
+msgstr "Information"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:313
+msgid "Amount in your account"
+msgstr "Montant dans votre compte"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:316
+msgid "Campaign ID"
+msgstr "Campagne ID"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:330
+msgid "Simulation"
+msgstr "Simulation"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:331
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:334
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:162
+msgid "Yes"
+msgstr "Oui"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:333
+msgid "Paid by customer"
+msgstr "Payé par l'utilisateur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:336
+msgid "Recipients"
+msgstr "Destinataires"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:339
+msgid "Nb of SMS"
+msgstr "Nb de SMS"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:348
+msgid "Transmission date"
+msgstr "Date de transmission"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:351
+msgid "Validation date"
+msgstr "Date de validation"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:361
+msgid "Choose recipients"
+msgstr "Choisir les destinataires"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:362
+msgid "4 methods to choose your recipients"
+msgstr "4 manières de choisir vos destinataires"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:368
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:383
+msgid "Or search among your customers"
+msgstr "Ou cherchez parmis vos clients"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:369
+msgid "testmgr"
+msgstr "français"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:372
+msgid "Enter your recipient details"
+msgstr "Entrez les détails de votre destinataire"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:375
+msgid "Phone (international e.g: +41782345679)"
+msgstr "Téléphone (international ex: +41782345679)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:376
+msgid "Firstname (optional)"
+msgstr "Prénom (optionnel)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:377
+msgid "Lastname (optional)"
+msgstr "Nom (optionnel)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:386
+msgid "Search will be applied on phone, id_customer, firstname, lastname"
+msgstr ""
+"La recherche sera appliquée sur le numéro de téléphone, l'identifiant de "
+"l'utilisateur, le prénom, le nom"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:392
+msgid "Or upload a CSV file"
+msgstr "Ou télécharger un fichier CSV"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:397
+msgid ""
+"Phone in 1st column (international format), Firstname in 2nd (optional), "
+"Lastname in 3rd (optional)"
+msgstr ""
+"Numéro de téléphone dans la 1ère colonne (format international ), Prénom "
+"dans la 2nd (optionnel), Nom dans la 3ème (optionnel)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:398
+msgid "See example"
+msgstr "Voir exemple"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:404
+msgid "Or add by role"
+msgstr "Ou ajouter par rôle"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:428
+msgid "Only user with phone number are selected"
+msgstr "Seul un utilisateur avec un numéro de téléphone est sélectionné"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:431
+msgid "user(s) found"
+msgstr "Utilisateur(s) trouvé(s)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:431
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:468
+msgid "Add"
+msgstr "Ajouter"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:439
+msgid "Or create your own query"
+msgstr "Ou créez votre propre requête"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:446
+msgid "-- All countries --"
+msgstr "--Tous les pays--"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:457
+msgid "Registered"
+msgstr "Inscrit"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:457
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:460
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:463
+msgid "From"
+msgstr "De"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:458
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:461
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:464
+msgid "To"
+msgstr "A"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:459
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:462
+msgid "Ignore years"
+msgstr "Ignorer les années"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:460
+msgid "Connected"
+msgstr "Connecté"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:463
+msgid "Number of orders"
+msgstr "Nombre de commandes"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:465
+msgid "Or no order"
+msgstr "Ou pas de commande"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:468
+msgid "customer(s) found"
+msgstr "Utilisateur(s) trouvé(s)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:476
+msgid "All doublons will be automatically removed"
+msgstr "Tous les doublons seront automatiquement supprimés"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:491
+msgid "Save the campaign"
+msgstr "Sauvegarder la campagne"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:492
+msgid "Transmit to Octopush"
+msgstr "Transmettre à Octopush"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:494
+msgid "Accept & Send"
+msgstr "Acceptez & envoyez"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:500
+msgid "Cancel this campaign"
+msgstr "Annuler cette campagne"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:502
+msgid "Delete the campaign"
+msgstr "Supprimer la campagne"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:504
+msgid "Duplicate this campaign"
+msgstr "Dupliquer cette campagne"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:510
+msgid "Transfer in progress :"
+msgstr "Transfert en cours:"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-generic-campaign-tab.php:510
+msgid "remaining recipients"
+msgstr "destinataires restants"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-history-tab.php:58
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:174
+msgid "Your campaign is now cancelled on octopush and can be deleted"
+msgstr ""
+"Votre campagne est désormais annulée sur Octopush et peut être supprimée"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-history-tab.php:67
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:216
+msgid "Your campaign has been deleted."
+msgstr "Votre campagne a été annulée."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-history-tab.php:92
+msgid ""
+"Your campaign has been duplicated, you can access to your new campaign in "
+"tab \"Campaigns\"."
+msgstr ""
+" Votre campagne a été dupliquée, vous pouvez accéder à votre nouvelle "
+"campagne dans l'onglet \"Campaigns\"."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:90
+msgid "Choose SMS you want to activate, and customize their text."
+msgstr ""
+"Choisissez le SMS que vous souhaitez activer et personnalisez le texte."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:92
+msgid "On the right side you can see a preview to check that everything is ok."
+msgstr ""
+"Sur le côté droit vous pouvez pré visualiser votre message et vérifier que "
+"tout est ok."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:97
+msgid "SMS for Admin"
+msgstr "SMS à destination de l'administrateur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:102
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:109
+msgid "Update"
+msgstr "Mise à jour"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:104
+msgid "SMS for Customer"
+msgstr "SMS à destination du client"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:110
+msgid "Reset all messages"
+msgstr "Revenir à l'état initial pour tous les messages"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:146
+msgid "Sent only if customer pays the option"
+msgstr "Envoyé uniquement si l'utilisateur paie l'option"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:151
+msgid "Activate"
+msgstr "Activer"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:162
+msgid ""
+"This message will be divided in 70 chars parts, because of non standard "
+"characters : "
+msgstr ""
+"Ce message sera divisé en 70 caractères à cause des caractères non standarts:"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:162
+msgid "This message will be divided in 160 chars parts"
+msgstr "Ce message sera divisé en 160 caractères"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-messages.php:165
+msgid "Variables you can use : "
+msgstr "Variables que vous pouvez utiliser:"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-news.php:39
+msgid "No news available."
+msgstr "Pas de nouvelles disponibles"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-news.php:43
+msgid "News in your language are not available."
+msgstr "Les informations dans votre langue ne sont pas disponibles."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-news.php:53
+msgid "author"
+msgstr "auteur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:46
+msgid "recipient"
+msgstr "destinataire"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:48
+msgid "recipients"
+msgstr "destinataires"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:64
+msgid "ID"
+msgstr "ID"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:65
+msgid "Firstname"
+msgstr "Prénom"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:66
+msgid "Lastname"
+msgstr "Nom"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:67
+msgid "Phone"
+msgstr "Téléphone"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:68
+msgid "Country"
+msgstr "Pays"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:80
+msgid "Transmitted to Octopush"
+msgstr "Transmis à Octopush"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:81
+msgid "Status / Error"
+msgstr "Statut / Erreur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:128
+msgid "Search Recipients"
+msgstr "Cherchez les destinataires"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:228
+msgid "no"
+msgstr "non"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:229
+msgid "yes"
+msgstr "oui"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-recipient-list.php:237
+msgid "delete"
+msgstr "effacer"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:56
+msgid "Your campaign has been saved."
+msgstr "Votre campagne a été sauvegardée"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:70
+msgid "The file has not been uploaded"
+msgstr "Le fichier n'a pas été téléchargé"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:106
+msgid "That file is not a valid CSV file."
+msgstr "Ce fichier n'est pas un fichier CSV valide"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:109
+msgid "new recipient(s) were added to the list."
+msgstr "nouveau(x) destinataire(s) a(ont) été rajouté(s) à la liste"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:109
+msgid "line(s) ignored."
+msgstr "ligne(s) ignorée(s)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:141
+msgid ""
+"Your campaign is currently being transmitted, please do not close the window."
+msgstr ""
+"Votre campagne est en train d'être transmise, svp ne fermez pas cette fenêtre"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:158
+msgid "Your campaign is now validated and will be sent at"
+msgstr "Votre campagne est maintenant validée et sera envoyée à"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:182
+msgid "Your campaign is now cancelled and can be deleted"
+msgstr "Votre campagne est maintenant annulée et peut être supprimée"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:208
+msgid ""
+"Your campaign has been duplicated, you are now working on a new campaign."
+msgstr ""
+"Votre campagne a été dupliquée, vous travaillez désormais sur une nouvelle "
+"campagne"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:213
+msgid "Your campaign can not be deleted."
+msgstr "Votre campagne ne peut pas être supprimée."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:224
+msgid "Please enter a title"
+msgstr "Entrez un titre svp"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:226
+msgid "Please enter a message"
+msgstr "Entrez un message svp"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:228
+msgid "Please enter a valid send date"
+msgstr "Entrez une date valide d'envoi svp"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:580
+msgid "The phone number and the country does not match."
+msgstr "Le numéro de téléphone et le pays ne correspondent pas"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:618
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-send-tab.php:620
+msgid "That phone number is already in the list."
+msgstr "Ce numéro de téléphone est déjà dans votre liste."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:84
+msgid "Please enter your account information to login to www.octopush.com"
+msgstr "Entrez svp vos paramètres de connexion à www.octopush.com"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:88
+msgid "The email you entered is not a valid email."
+msgstr "L'email que vous avez entré n'est pas valide"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:99
+msgid "This account is not a valid account on www.octopush.com"
+msgstr "Ce compte n'est pas valide sur www.octopush.com"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:106
+msgid "Please enter a valid sender name : 11 chars max (letters + digits)"
+msgstr ""
+"Entrez un expéditeur valide: 11 caractères maximum (lettres + chiffres)"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:112
+msgid "Please enter a valid admin mobile number"
+msgstr "Entrez svp un numéro de ligne mobile valide pour l'administrateur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:118
+msgid "Please enter a valid integer value for alert"
+msgstr "Entrez svp un nombre valide pour le seuil d'alerte"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/class-octopush-sms-settings.php:125
+msgid "Please enter a valid integer value for product_id"
+msgstr "Entrez svp un nombre valide pour l'identifiant produit"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/models/class-octopush-sms-campaign-model.php:380
+msgid "Phone number cannot be found (lack country or phone) for user"
+msgstr ""
+"Le téléphone ne peut être trouvé (manque le code pays) pour l'utilisateur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/models/class-octopush-sms-recipient.php:66
+msgid " no valid data is set"
+msgstr "pas de donnée valide établie"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/models/class-octopush-sms-recipient.php:70
+msgid "value is required"
+msgstr "une valeur est requise"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/models/class-octopush-sms-recipient.php:73
+msgid "maximum size is "
+msgstr "la taille maximum est"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:30
+msgid "Messages"
+msgstr "Messages"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:32
+msgid "Campaigns"
+msgstr "Campagnes"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:33
+msgid "History"
+msgstr "Historique"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-admin-page.php:34
+msgid "News"
+msgstr "Informations"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:31
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:35
+msgid ""
+"This module allows you to send SMS to the admin, or to customers on "
+"different events."
+msgstr ""
+"Ce module vous permet d'envoyer des SMS à l'administrateur or à des "
+"utilisateurs en fonction de différents événements."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:36
+msgid "It also allows to send Bulk SMS for marketing campaign."
+msgstr ""
+"Il vous permet aussi d'envoyer des campagnes de SMS Marketing en masse."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:38
+msgid "First, you have to create an account on "
+msgstr "Premièrement, vous devez créer un compte sur "
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:40
+msgid " to be able to send SMS, and make a deposit on this account."
+msgstr " afin de pouvoir envoyer des SMS, merci de créditer votre compte."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:42
+msgid "Then, please fill your identification settings, and set your options."
+msgstr ""
+"Puis, renseigner vos informations personnelles et choisissez vos options."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:44
+msgid ""
+"If you want that the customers pay for the notification service, first "
+"create a product representing the SMS service, then fill the product ID "
+"field."
+msgstr ""
+"Si vous souhaitez que vos utilisateurs paient pour le service de "
+"notification, créez le produit proposant le service SMS et renseignez le "
+"champ ID du produit."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:45
+msgid ""
+"Finally, you have to activate/desactivate events you want on the \"Messages"
+"\" tab, and if needed, customize the text that will be sent for each event."
+msgstr ""
+"Enfin, activer/désactiver les événements que vous souhaitez dans l'onglet "
+"\"Messages\"  and si besoin, paramétrez les messages que vous souhaitez "
+"envoyer pour chaque événement."
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:47
+msgid "Enjoy !"
+msgstr "Enjoy !"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:58
+msgid "Create your Octopush account"
+msgstr "Créez votre compte Octopush"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:59
+msgid ""
+"Create your account by clicking on the following image and start sending SMS "
+"now to improve your sales !"
+msgstr ""
+"Créez votre compte en cliquant sur l'image suivante et envoyez vos SMS pour "
+"améliorer vos ventes !"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:65
+msgid "Amount on your account"
+msgstr "Le solde de votre compte"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:73
+msgid "Email"
+msgstr "Email"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:83
+msgid "You can find it on your Octopush "
+msgstr "Votre email peut être trouvé sur Octopush"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:83
+msgid "Personal Data"
+msgstr "Données personnelles"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:88
+msgid "Octopush Key"
+msgstr "Clé Octopush"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:104
+msgid "Admin mobile number"
+msgstr "Téléphone mobile de l'administrateur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:119
+msgid "Sender name"
+msgstr "Nom de l'expéditeur"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:130
+msgid "11 characters maximum"
+msgstr "11 caractères maximum"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:135
+msgid "Send an alert when your account is under"
+msgstr "Envoyez une alerte lorsque le compte est en inférieur à"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:150
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:153
+msgid "Order status notification free"
+msgstr "Notification du statut de la commande est gratuite"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:171
+msgid "No"
+msgstr "Non"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:175
+msgid "SMS notification product ID"
+msgstr "ID produit pour l'option de notification"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:199
+msgid "Informations"
+msgstr "Informations"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:202
+msgid ""
+"Standard message is divided in 160 chars long parts and each part cost 1 "
+"SMS, if all chars are in list below. If one or more chars are not in this "
+"list, then message is divided in 70 chars parts, and each part cost 1 SMS. "
+"You can see if your message will be divided in 70 chars long parts in the "
+"\"Manage message\" tab and which char is not supported in standard."
+msgstr ""
+"Le message est divisé en 160 caractères de longueur facturé 1 SMS chacun si "
+"les caractères appartiennent à la liste ci-dessous. Si l'un des caractères "
+"n'appartient pas à la liste ci-dessous, le message est divisé en 70 parties "
+"de 70 caractères et chacune est facturé 1 SMS. Afin de connaître la "
+"facturation de vos messages et savoir si le caractère appartient à la liste "
+"standard, consultez l'onglet  \"Manage message\" "
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:205
+msgid ""
+"Before applying mentioned rule, these characters are automatically replaced"
+msgstr ""
+"Avant d'appliquer la règle mentionnée, ces caractères sont automatiquement "
+"remplacés"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:207
+msgid "Original character"
+msgstr "Caractère original"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:208
+msgid "Replaced by"
+msgstr "Remplacé par"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:211
+msgid "Authorized characters"
+msgstr "Caractères autorisés"
+
+#: /home/mgrenier/projet/octopush/woocommerce/wp-content/plugins/octopush-sms/admin/partials/html-octopush-sms-settings.php:217
+msgid "These chars count as 2 chars :"
+msgstr "Ces caractères comptent pour 2 caractères:"
+
+#~ msgid "SMS Settings"
+#~ msgstr "Paramètres SMS"
+
+#~ msgid ""
+#~ "New order from {firstname} {lastname}, id: {order_id}, paiement: "
+#~ "{payment}, total: {total_paid} {currency}."
+#~ msgstr ""
+#~ "Nouvelle commande de {firstname} {lastname}, id: {order_id}, paiement: "
+#~ "{payment}, total: {total_paid} {currency}."
+
+#~ msgid "You specified a wrong token."
+#~ msgstr "Vous avez indiqué un mauvais jeton."
+
+#~ msgid ""
+#~ "You already have tokens in use. You can only have one session open at a "
+#~ "time."
+#~ msgstr ""
+#~ "Vous avez actuellement un jeton en cours d'utilisation. Vous ne pouvez "
+#~ "avoir qu'une unique session à la fois."
+
+#~ msgid ""
+#~ "You must tick one of the two boxes to indicate if <u>you do not wish to "
+#~ "send test SMS </u> or if <u>you have correctly received and validated it</"
+#~ "u>."
+#~ msgstr ""
+#~ "Vous devez cocher l'une des deux cases afin d'indiquer si <u> vous ne "
+#~ "souhaitez pas envoyer de SMS de test </u> ou si <u> vous avez reçu votre "
+#~ "SMS de test </u>."
+
+#~ msgid "Search Campaigns"
+#~ msgstr "Chercher une campagne"
+
+#~ msgid ""
+#~ "2. When your campaign is ready, click \"Transmit to Octopush\" to send "
+#~ "your request to the SMS plateform, SMS will not be sent immediatly ! "
+#~ "Status becomes \"Transfert in progess\" and the campaign can't be "
+#~ "modified anymore."
+#~ msgstr ""
+#~ "2. Lorsque votre campagne est prête, cliquez sur  \"Transmit to Octopush"
+#~ "\" , les SMS ne seront pas directement envoyés ! Le statut devient "
+#~ "\"Transfert in progess\" et la campagne ne peut plus être modifiée."
+
+#~ msgid ""
+#~ "5. You can retrieve all campaigns whose are not in the status \"In "
+#~ "Construction\", \"Transfer in progress\" or \"Waiting for validation\" in "
+#~ "the \"SMS history\" tab."
+#~ msgstr ""
+#~ "5. Vous pouvez récupérer toutes les campagnes qui n'ont pas le statut "
+#~ "\"In Construction\", \"Transfer in progress\" ou \"Waiting for validation"
+#~ "\" dans l'onglet \"SMS history\"."
+
+#, fuzzy
+#~ msgid "Update quantity"
+#~ msgstr "Quantité mise à jour"
+
+#, fuzzy
+#~ msgid "Update statut"
+#~ msgstr "Statut mis à jour"
+
+#, fuzzy
+#~ msgid ""
+#~ "Back order ({return_id}) done by the cleint {customer_id} about the order "
+#~ "{order_id}. Reason : {message}"
+#~ msgstr ""
+#~ "Retour de ({return_id}) effectué par le client {customer_id} concernant "
+#~ "la commande {order_id}. Raison : {message}"
+
+#, fuzzy
+#~ msgid ""
+#~ "{firstname} {lastname}, your order {order_id} was delivered. Your "
+#~ "shipping number is {shipping_number}. {shopname}"
+#~ msgstr ""
+#~ "{firstname} {lastname}, votre commande{order_id} a été expédié/livrée. "
+#~ "Votre numéro de colis est le  {shipping_number}. {shopname}"
+
+#~ msgid "Settings for the SMS"
+#~ msgstr "Paramètres des SMS"
+
+#, fuzzy
+#~ msgid "Detail of the SMS"
+#~ msgstr "Détail du SMS"
+
+#, fuzzy
+#~ msgid "active?"
+#~ msgstr "actif?"
+
+#, fuzzy
+#~ msgid "Mail"
+#~ msgstr "Email"
+
+#~ msgid "Save changes"
+#~ msgstr "Sauvegarder"
+
+#, fuzzy
+#~ msgid "action_customer_account_add_default_text"
+#~ msgstr "{firstname} {lastname} vient de s'inscrire sur {shopname}"

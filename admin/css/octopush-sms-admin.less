@@ -1,0 +1,156 @@
+@import '../../../woocommerce/assets/css/mixins.less';
+
+// cd "/media/mathieu/OS/Users/admin/Google Drive/projets/woo/wp-content/plugins/octopush-sms/admin/css"
+// lessc octopush-sms-admin.less > octopush-sms-admin.css
+
+.edit , .delete, .failed, .info {    
+    .ir;
+    padding:0 !important;
+    height: 2em !important;
+    width:2em;
+    &:after {
+        .icon;
+        line-height: 1.85;
+    }
+}
+
+.edit:after {
+    content: "\e603";
+}
+
+.search {
+    background-color: transparent;    
+}
+.search:before {
+    .iconbefore("\e024");
+}
+
+.previous {
+    background-color: transparent;    
+}
+.previous:before {
+    .iconbefore("\e02f");
+}
+
+.delete:after {
+    content: "\e013";
+}
+
+.failed:after {
+    content: "\e016";
+}
+
+.info:after {
+    content: "\e016";    
+}
+
+.plus {
+    background-color: transparent;
+
+}
+.plus:before {
+    .iconafter("\e007");
+}
+
+.filter_label {
+    display: inline-block;
+    width: 115px;
+}
+
+.vmiddle {
+    vertical-align: middle;
+}
+
+#sendsms_buttons {
+    padding-bottom: 12px;
+}
+
+#sendsms_data .sendsms_data_column {
+    width: 100%;
+    padding: 0 2% 0 0;
+    float: left;
+}
+
+#sendsms_data .sendsms_data_column .form-field .date-picker-field {
+    width: 20%;
+}
+
+#sendsms_data_hour .hour, #sendsms_data_minute .minute {
+    width: 2.5em;
+}
+
+#sendsms_data, #sendsms_message, #block_infos, #sendsms_choose_recipient, #sendsms_recipient {
+    padding: 23px 24px 12px;
+}
+
+//block_info
+#block_infos label {
+    width: 45%;
+}
+
+#block_infos label+div {
+    padding-top: 3px;
+    float: right;
+    width: 50%;
+}
+
+#block_infos #balance {
+    font-weight: bold;
+    color: red;
+}
+
+#poststuff #post-body.columns-2 {
+    //margin-right: 260px;
+}
+
+#post-body.columns-2 #postbox-container-1 {
+    float: left;
+    //margin-right: -260px;
+    width: 360px;
+}
+
+#poststuff .postbox-container {
+    float: left;
+    margin-right: 10px;
+    max-width: 500px;
+    width: 71%;    
+}
+
+.postbox {max-width:1000px}
+
+.ows {
+    /* float:left; */
+    border: 1px solid #e5e5e5;
+    /* -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04); */
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+	padding:10px;
+	margin-bottom: 10px;
+	/* width: 100%; */
+}
+
+.doc {
+    margin-top: 20px;
+}
+
+.header {
+    width:70%;
+    float:left;
+}
+
+.sms {
+    border: 1px solid #e5e5e5;
+    /* -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04); */
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+}
+
+#Octopush_Sms_Send_Tab .wrap h2 span.dashicons { line-height: 30px;}
+#Octopush_Sms_Send_Tab .wrap h2 span.dashicons {line-height: 28px;}
+
+.text_td {width:25%;vertical-align:top}
+th.text_td{vertical-align: middle}
+.data_td {width:50%}
+.message_textarea {width:90%;}
+.os_row{width: 100%; display: table;}
+table.messages_data{max-width:1024px;width:100%; border:none;padding:none}
